@@ -1,0 +1,3 @@
+===============================================================
+This is the project for the sake of doing the github task....
+It's a weather app that's made with javascript and calling different API's.
